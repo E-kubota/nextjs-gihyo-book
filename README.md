@@ -27,3 +27,15 @@
 | 商品を出品 | 必要な情報を入力し商品を投稿 | 出品ページ |
 | 出品者のプロファイルを表示 | 出品者のプロファイル表示、出品者の商品一覧を表示 | ユーザーページ |
 | サインイン | ユーザー名とパスワードを入力して、システムにサインイン | サインインぺージ |
+
+ブランチ
+* feature/dev-env-setup       環境構築
+* feature/api-create          APIクライアント実装
+* feature/component-setup     コンポーネント実装の準備
+* feature/atomic-design-setup Atomic Design によるコンポーネント設計
+* feature/atomic-create       Atoms の実装
+* feature/molecules-create    Molecules の実装
+* feature/organisms-create    Organisms の実装
+* feature/template-create     Template の実装
+* feature/pages-setup-create  ページの設計と実装
+* feature/component-unit-test コンポーネントのユニットテスト
